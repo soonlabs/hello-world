@@ -1,0 +1,10 @@
+/Users/rk/Downloads/example-helloworld/src/program-rust/target/release/deps/borsh_schema_derive_internal-74ab0d4730cb5af3.rmeta: /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/lib.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/helpers.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/enum_schema.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/struct_schema.rs
+
+/Users/rk/Downloads/example-helloworld/src/program-rust/target/release/deps/libborsh_schema_derive_internal-74ab0d4730cb5af3.rlib: /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/lib.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/helpers.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/enum_schema.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/struct_schema.rs
+
+/Users/rk/Downloads/example-helloworld/src/program-rust/target/release/deps/borsh_schema_derive_internal-74ab0d4730cb5af3.d: /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/lib.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/helpers.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/enum_schema.rs /Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/struct_schema.rs
+
+/Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/lib.rs:
+/Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/helpers.rs:
+/Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/enum_schema.rs:
+/Users/rk/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.10.0/src/struct_schema.rs:
