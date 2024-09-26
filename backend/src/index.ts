@@ -17,7 +17,7 @@ async function sayHello(): Promise<void> {
   );
   let keyPair = Keypair.fromSecretKey(
     base58.decode(
-      "" // Add your secret key here
+      "2X4wTXdBeEMLUhytyZXvdd9TjAMYaprpNr9vWVf28riT27vspyuRGfRbBXtgpPdLXAZztbC7PeVWfFpxcUfmBTXF" // Add your secret key here
     )
   );
   const pubKey = keyPair.publicKey;
