@@ -15,7 +15,7 @@ This is a simple example of how to use the SOON Network to deploy a simple "Hell
 https://bridge.devnet.soo.network/home
 ```
 
-#### Also if you dont't have Sepolia ETH you can use the faucet
+#### Also if you don't have Sepolia ETH you can use the faucet
 
 ```bash
 https://faucet.soo.network/
